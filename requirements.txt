@@ -1,5 +1,1 @@
 openai==0.28.1
-
- build-essential
-    pkg-config
-    default-libmysqlclient-dev
